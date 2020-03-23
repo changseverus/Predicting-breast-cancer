@@ -1,2 +1,2 @@
 # predicting-lung-cancer
-build a binary classifier model to predict lung cancer
+build a binary classifier model to predict breast cancer
